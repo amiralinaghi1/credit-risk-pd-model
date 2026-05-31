@@ -30,8 +30,6 @@ Target variable:
 * `TARGET = 0`: No repayment difficulty
 * `TARGET = 1`: Repayment difficulty
 
-The dataset is not included in this repository due to file size. It can be downloaded from the Home Credit Default Risk dataset source.
-
 ## Methodology
 
 ### 1. Portfolio Default Rate
